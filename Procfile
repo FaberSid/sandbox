@@ -1,1 +1,1 @@
-bot: python tmp.py
+dyno: python tmp.py
